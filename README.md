@@ -1,2 +1,2 @@
 # MyFirstRepository2
-Дубль два
+*Мой второй репозиторий на Github*
